@@ -3,7 +3,7 @@
 | UNIDAD 2 Recuperación 1 | DESARROLLO PARA DISPOSITIVOS INTELIGENTES |
 | ------------- | ------------- |
 | ALUMNO  | Cesar Guerrer Cruz  |
-| N° Cntrol | 1220100739 |
+| N° Control | 1220100739 |
 
 # Evidencia ejericios Ordinario
 [Ver](https://github.com/gpuente20/Unidad-2---Flutter/blob/main/Ejericios%20Dart%2001%20al%2004%2C%2005%20al%2008%2C%2009%20al%2015.pdf)

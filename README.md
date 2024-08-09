@@ -60,3 +60,6 @@
 
 # Aplicación YesOrNo
 [Ir al código](https://github.com/gpuente20/Unidad-2---Flutter/tree/main/Ejercicios%20Dart%20U2/yes_no_app)
+
+# Repositorio del Proyecto Bicicleta Inteligente
+[Bicicleta Inteligente](https://github.com/C3sarCruz/Bicicleta-inteligente)

@@ -62,7 +62,7 @@
 [Ir al código](https://github.com/gpuente20/Unidad-2---Flutter/tree/main/Ejercicios%20Dart%20U2/yes_no_app)
 
 # Aplicacion Arquitectura Limpia 
-[image](https://github.com/gpuente20/Unidad-2---Flutter/blob/main/Evidencia_Arquitectura%20limpia.png)
+[](https://github.com/gpuente20/Unidad-2---Flutter/blob/main/Evidencia_Arquitectura%20limpia.png)
 
 # Repositorio del Proyecto Bicicleta Inteligente
 [Bicicleta Inteligente](https://github.com/C3sarCruz/Bicicleta-inteligente)

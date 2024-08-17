@@ -73,7 +73,7 @@
 # Unidad 3
 
 ## Grafica de datos con sensor OLED practica 1
-[ver](https://drive.google.com/drive/folders/1hOO7us3o6wqWQQ_tONloLiIrnlFlkCea?usp=sharing)
+[ver](https://drive.google.com/file/d/1cGu0C7pDM8U5B7y3fnZQ6H8nGjOlvB1Q/view?usp=sharing)
 
 ## Grafica de datos con sensor OLED practica 2
 [ver](https://drive.google.com/drive/folders/1hOO7us3o6wqWQQ_tONloLiIrnlFlkCea?usp=sharing)

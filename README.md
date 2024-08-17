@@ -72,3 +72,15 @@
 
 # Unidad 3
 
+## Grafica de datos con sensor OLED practica 1
+[ver](https://drive.google.com/drive/folders/1hOO7us3o6wqWQQ_tONloLiIrnlFlkCea?usp=sharing)
+
+## Grafica de datos con sensor OLED practica 2
+[ver](https://drive.google.com/drive/folders/1hOO7us3o6wqWQQ_tONloLiIrnlFlkCea?usp=sharing)
+
+## Practicas Flutter
+## Evidencia
+
+## Evidencia
+
+## Evidencia
